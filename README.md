@@ -25,7 +25,7 @@ diabetes-prediction-api/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/diabetes-prediction-api.git
+   git clone https://github.com/<manahil123610>/diabetes-prediction-api.git
    cd diabetes-prediction-api
    ```
 
